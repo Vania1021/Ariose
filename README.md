@@ -359,7 +359,6 @@
              </div>
 
 
-![image](https://github.com/user-attachments/assets/b0dc2400-b8ea-4b67-be4a-57e57e339e79)
        
 
 <h3>FEATURES</h3>
